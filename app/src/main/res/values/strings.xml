@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="say_hello">Say hello!</string>
+    <string name="hello_any">Hello %s</string>
+    <string name="take_picture">Take picture</string>
+    <string name="open_browser">Open browser</string>
+</resources>
